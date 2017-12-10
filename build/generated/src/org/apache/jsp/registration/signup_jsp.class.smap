@@ -1,0 +1,14 @@
+SMAP
+signup_jsp.java
+JSP
+*S JSP
+*F
++ 0 signup.jsp
+registration/signup.jsp
+*L
+1,9:55
+9:64
+11,5:16
+15,25:65
+39,4:90
+*E
